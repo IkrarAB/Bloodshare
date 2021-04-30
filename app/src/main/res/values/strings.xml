@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bloodshare</string>
+    <string name="register">doesn`t have account?</string>
+    <string name="linkregister"><b>Register</b></string>
+    <string name="code">doesn`t get the code? <b>Resend</b></string>
+    <string-array name="bloodtype">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+    <string-array name="reshus">
+        <item>Reshus</item>
+        <item>Positif</item>
+        <item>Negatif</item>
+    </string-array>
+    <string-array name="job">
+        <item>Job</item>
+        <item>Mahasiswa</item>
+        <item>Karyawan</item>
+        <item>Guru</item>
+    </string-array>
+    <string name="almost">
+        Thank you for registering with us. One more<br/>
+        step, you need to check your email<br/>
+        to active your account
+    </string>
+</resources>
